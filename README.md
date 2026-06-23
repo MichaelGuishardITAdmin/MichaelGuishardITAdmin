@@ -16,7 +16,8 @@ in both the Public and Private sectors
 
     ## Professional Background
     IT proferssional with extensive experience / background
-    in systems administration, enterprise support,
+    in systems administration, enterprise support, Active Directory,
+    Windows Server, endpoint management, software deployment,
     troubleshooting, patch management, disaster recovery,
     and infrastructure operations.
 
