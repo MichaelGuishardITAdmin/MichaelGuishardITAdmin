@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Michael Guishard
+IT Professional with extensive experience 
+supporting enterprise environments 
+in both the Public and Private sectors
 
-<!--
-**MichaelGuishardITAdmin/MichaelGuishardITAdmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
+- Micorsoft Certified: Azure Fundementals (AZ-900)
+- Currently pursuing Azure Administrator Associate (AZ-204)
 
-Here are some ideas to get you started:
+  ## Current Focus
+  - Microsoft Azure
+  - Windows Server Administration
+  - PowerShell Automation
+  - Hybrid Identity
+  - Microsoft Entra ID
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ## Professional Background
+    IT proferssional with extensive experience / background
+    in systems administration, enterprise support,
+    troubleshooting, patch management, disaster recovery,
+    and infrastructure operations.
+
+    Currently expanding my cloud
+    administration skills through Azure
+    certification studies and hands-on lab work
+
+    ## Projects
+    Projects and lab exercises will be added here
+    as I continue my Azure Journey.
+
+    Stay Tuned!
